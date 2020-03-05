@@ -1,0 +1,180 @@
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.pdb
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.pdb
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.pdb
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\DAL.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\Model.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\Model.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\obj\Debug\DAL.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\DAL.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\log4net.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\Model.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\Model.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\bin\Debug\log4net.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\obj\Debug\DAL.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\DAL.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\log4net.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\Model.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\Model.pdb
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\bin\Debug\log4net.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\obj\Debug\DAL.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\DAL\obj\Debug\DAL.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\DAL.dll.config
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\DAL.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\DAL.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\log4net.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\Model.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\Model.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\Model.dll.config
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\bin\Debug\log4net.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\obj\Debug\DAL.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\DAL\obj\Debug\DAL.pdb

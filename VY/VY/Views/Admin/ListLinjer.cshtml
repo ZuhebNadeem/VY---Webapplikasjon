@@ -1,0 +1,77 @@
+﻿@model List<Model.LinjeAdmin>
+
+@{
+    ViewBag.Title = "ListLinjer";
+    Layout = "~/Views/Shared/_NavBar.cshtml";
+}
+
+<h2 class="mt-4 mb-4">Linjer</h2>
+
+<div class="col-md-6">
+    <p class="text-danger"> - En Linje MÅ være tom for stasjoner før man kan slette linjen</p>
+</div>
+
+<table class="table table-hover">
+
+    <thead>
+        <tr>
+            <th>
+                Navn
+            </th>
+            <th>
+                Pris (KR)
+            </th>
+            <th>
+                Tid (Min)
+            </th>
+            <th>
+                Stasjoner
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Navn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pris)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tid)
+            </td>
+            <td>
+                @foreach (var stasjonNavn in item.Stasjoner)
+                {
+                    @stasjonNavn
+                    <br />
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Endre", "EditLinje", new { id = item.id }, new { @class = "btn btn-success" })
+                @if (item.Stasjoner.Count <= 0)
+                {
+                    @Html.ActionLink("Slett", "DeleteLinje", new { id = item.id }, new { @class = "btn btn-danger" })
+                }
+                else
+                {
+
+
+                    <button type="button" class="btn btn-danger" disabled>Slett</button>
+
+                }
+
+            </td>
+        </tr>
+    }
+
+</table>
+<div class="form-group mt-3">
+    <div class="col-md-offset-2 col-md-10">
+
+        <a href="~/Admin/RegistrerLinje" class="btn btn-primary  btn-lg">Lag ny Linje</a>
+
+    </div>
+</div>

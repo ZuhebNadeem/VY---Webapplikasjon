@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Vyview";
+    Layout = "~/Views/Shared/_NavBar.cshtml";
+}
+
+
+
+
+
+<html>
+<head>
+</head>
+<body>
+
+
+
+<div class="form-group row ml-5 mt-5">
+
+    <div class="col ml-5">
+        <div class="card mb-3" style="max-width: 20rem;">
+            <h3 class="card-header">  Stasjoner</h3>
+            <div class="card-body">
+
+            </div>
+            <img style="height: 200px; width: 90%; display: block;" class="ml-3" src="~/Content/images/stasjoner.png" alt="Card image">
+            <div class="card-body">
+                <p class="card-text">Klikk her for å legge til en ny stasjon.</p>
+            </div>
+
+            <div class="card-body text-center">
+                <a href="~/Admin/ListStasjoner" class="btn btn-primary ">Administrer</a>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="col ml-5">
+        <div class="card mb-3" style="max-width: 20rem;">
+            <h3 class="card-header"> Linjer</h3>
+            <div class="card-body">
+
+            </div>
+            <img style="height: 200px; width: 95%; display: block;" src="~/Content/images/linjer.png" alt="Card image">
+            <div class="card-body">
+                <p class="card-text">Klikk her for å redigere Linjer</p>
+            </div>
+
+            <div class="card-body text-center">
+                <a href="~/Admin/ListLinjer" class="btn btn-primary ">Administrer</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+</body>

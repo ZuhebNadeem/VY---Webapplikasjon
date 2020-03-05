@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DAL.Kunder>
+
+@{
+    ViewBag.Title = "ListKunder";
+    Layout = "~/Views/Shared/_NavBar.cshtml";
+}
+
+<h2 class="mt-4 mb-4">Kunder</h2>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Telefon)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Epost)
+            </th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Epost)
+            </td>
+            <td>
+                @Html.ActionLink("Endre", "EditKunder", new { id = item.Id } ,new { @class = "btn btn-success" }) 
+                @Html.ActionLink("Slett", "DeleteKunde", new { id = item.Id },new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+

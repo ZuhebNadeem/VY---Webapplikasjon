@@ -1,0 +1,1777 @@
+C:\Users\Zuheb\source\repos\VY\VY\bin\VY.dll.config
+C:\Users\Zuheb\source\repos\VY\VY\bin\VY.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\VY.pdb
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\csc.exe
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\csi.exe
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuheb\source\repos\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuheb\source\repos\VY\VY\bin\EntityFramework.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zuheb\source\repos\VY\VY\bin\EntityFramework.xml
+C:\Users\Zuheb\source\repos\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Zuheb\source\repos\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Zuheb\source\repos\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuheb\source\repos\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Zuheb\source\repos\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\source\repos\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Zuheb\source\repos\VY\VY\obj\Debug\VY.dll
+C:\Users\Zuheb\source\repos\VY\VY\obj\Debug\VY.pdb
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\VY.dll.config
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\VY.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\VY.pdb
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\csc.exe
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\csi.exe
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\EntityFramework.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\EntityFramework.xml
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Furkan\Downloads\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\Downloads\VY\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Furkan\Downloads\VY\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Furkan\Downloads\VY\VY\VY\obj\Debug\VY.dll
+C:\Users\Furkan\Downloads\VY\VY\VY\obj\Debug\VY.pdb
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\VY.dll.config
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\VY.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\VY.pdb
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\csc.exe
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\csc.rsp
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\csi.exe
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\csi.rsp
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\vbc.exe
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Razor.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Razor.xml
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\obj\Debug\VY.dll
+C:\Users\sajan_xu01lsq\Downloads\VY\VY\VY\obj\Debug\VY.pdb
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\VY.dll.config
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\VY.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\VY.pdb
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\csc.exe
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\csi.exe
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\EntityFramework.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\EntityFramework.xml
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Furkan\Desktop\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\Desktop\VY\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\VY\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Furkan\Desktop\VY\VY\VY\obj\Debug\VY.dll
+C:\Users\Furkan\Desktop\VY\VY\VY\obj\Debug\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\VY.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\csc.exe
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\csc.rsp
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\csi.exe
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\csi.rsp
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\vbc.exe
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\obj\Debug\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\Webapp 03.10\VY\VY\VY\obj\Debug\VY.pdb
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\VY.dll.config
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\VY.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\VY.pdb
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\csc.exe
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\csi.exe
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\EntityFramework.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\EntityFramework.xml
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\obj\Debug\VY.dll
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\obj\Debug\VY.pdb
+C:\Users\Furkan\Desktop\NesteVY\VY\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\VY.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\VY.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\csc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\csi.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\EntityFramework.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\EntityFramework.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\obj\Debug\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\05.10 - first\VY\VY\VY\obj\Debug\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\VY.dll.config
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\csc.exe
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\csc.rsp
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\csi.exe
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\csi.rsp
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\vbc.exe
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\obj\Debug\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\05.10 Lekerom\05.10 - first\VY\VY\VY\obj\Debug\VY.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\VY.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\VY.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\csc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\csi.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\EntityFramework.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\EntityFramework.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\obj\Debug\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\06.10-0400\VY\VY\VY\obj\Debug\VY.pdb
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\VY.dll.config
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\VY.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\VY.pdb
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\csc.exe
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\csc.rsp
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\csi.exe
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\csi.rsp
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\vbc.exe
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Razor.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Razor.xml
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\obj\Debug\VY.dll
+C:\Users\sajan_xu01lsq\Downloads\06.10-0500 (7)\VY\VY\VY\obj\Debug\VY.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\obj\Debug\VY.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\obj\Debug\VY.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\VY.dll.config
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\VY.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\VY.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\BLL.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\EntityFramework.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\Model.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\BLL.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\Model.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\Model.dll.config
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\EntityFramework.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuheb\source\repos\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll.config
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.pdb
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.rsp
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.rsp
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.pdb
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.pdb
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll.config
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.pdb
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.pdb
+C:\Users\furka\Desktop\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.pdb
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll.config
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.pdb
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.rsp
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.rsp
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.pdb
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.pdb
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll.config
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.pdb
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll.config
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.dll
+C:\Users\furka\Desktop\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.pdb
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll.config
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.pdb
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.rsp
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.rsp
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.pdb
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.pdb
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll.config
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.pdb
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll.config
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.dll
+C:\Users\furka\Desktop\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.pdb
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll.config
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.dll
+C:\Users\Zuheb\OneDrive\Skrivebord\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\VY.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csc.rsp
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\csi.rsp
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\BLL.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\DAL.dll.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Model.dll.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Razor.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\VY\obj\Debug\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\VY.dll.config
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\csc.exe
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\csc.rsp
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\csi.exe
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\csi.rsp
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\vbc.exe
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\BLL.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\DAL.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\Model.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\BLL.pdb
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\DAL.pdb
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\DAL.dll.config
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\Model.pdb
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\Model.dll.config
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\obj\Debug\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\VY_OPPG2_Enhetstesting_adminny\VY\VY\obj\Debug\VY.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\VY.dll.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\VY.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\VY.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\csc.exe
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\csc.rsp
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\csi.exe
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\csi.rsp
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\vbc.exe
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\BLL.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\DAL.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\EntityFramework.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\Model.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Razor.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\BLL.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\DAL.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\DAL.dll.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\Model.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\Model.dll.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\EntityFramework.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Razor.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\obj\Debug\VY.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\VY\obj\Debug\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\VY.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\csc.exe
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\csc.rsp
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\csi.exe
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\csi.rsp
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\vbc.exe
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\BLL.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\DAL.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\log4net.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\Model.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\BLL.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\DAL.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\DAL.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\Model.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\Model.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\log4net.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\obj\Debug\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\VY\obj\Debug\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\VY.dll.config
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\csc.exe
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\csc.rsp
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\csi.exe
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\csi.rsp
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\vbc.exe
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\BLL.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\DAL.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\log4net.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\Model.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\BLL.pdb
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\DAL.pdb
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\DAL.dll.config
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\Model.pdb
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\Model.dll.config
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\log4net.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\obj\Debug\VY.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\obj\Debug\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\siste\VY\VY\obj\Debug\VY.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\VY.dll.config
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\VY.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\VY.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\csc.exe
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\csc.exe.config
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\csc.rsp
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\csi.exe
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\csi.exe.config
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\csi.rsp
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.AppContext.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Console.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Security.Claims.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\vbc.exe
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\vbc.exe.config
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\vbc.rsp
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\BLL.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\DAL.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\EntityFramework.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\EntityFramework.SqlServer.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\log4net.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\Model.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Helpers.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Mvc.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Razor.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Webpages.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\BLL.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\DAL.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\DAL.dll.config
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\Model.pdb
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\Model.dll.config
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\EntityFramework.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\EntityFramework.SqlServer.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\log4net.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Razor.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Webpages.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Helpers.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\System.Web.Mvc.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\obj\Debug\VY.csprojAssemblyReference.cache
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\obj\Debug\VY.csproj.CopyComplete
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\obj\Debug\VY.dll
+C:\Users\Zuheb\source\repos\VY_OPPG2_G45\VY\VY\obj\Debug\VY.pdb

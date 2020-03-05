@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DAL.Adminer>
+
+@{
+    ViewBag.Title = "AdminView";
+    Layout = "~/Views/Shared/_NavBar.cshtml";
+}
+
+
+<h2 class="mb-4 mt-5">Endre/slett Admin</h2>
+<div class="col-md-6">
+    <p class="text-danger"> - "Admin " er super og kan ikke slettes.</p>
+</div>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Brukernavn)
+            </th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brukernavn)
+            </td>
+
+            <td>
+                @if (item.Id != 1)
+                {
+
+                    @Html.ActionLink("Endre", "EditAdmin", new { id = item.Id }, new { @class = "btn btn-success" })
+                    @Html.ActionLink("Slett", "DeleteAdmin", new { id = item.Id }, new { @class = "btn btn-danger" })
+
+                }
+            </td>
+        </tr>
+    }
+
+</table>

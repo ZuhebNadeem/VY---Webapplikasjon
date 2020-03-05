@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Linjekart";
+}
+
+
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+    <form class="mt-4">
+        <h2>Linjekart</h2>
+        <img src="~/Content/images/NyLinjekart.png" class="mx-auto d-block" style="width: 100%">
+
+        <div id="VisAvganger">
+            @Html.Action("StasjonerPartialView", "Home")
+        </div>
+    </form>
+</body>
+</html>
+
+

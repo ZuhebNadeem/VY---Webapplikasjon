@@ -1,0 +1,56 @@
+﻿@model List<Model.StasjonAdmin>
+
+@{
+    ViewBag.Title = "List stasjoner";
+    Layout = "~/Views/Shared/_NavBar.cshtml";
+}
+
+<h2 class="mb-4 mt-5">Alle Stasjoner</h2>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">
+                Navn
+            </th>
+            <th scope="col">
+                Linjer
+            </th>
+            <th scope="col"></th>
+
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Navn)
+            </td>
+            <td>
+                @foreach (var l in item.LinjeListe)
+                {
+                    @l.Navn
+                    <br />
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Endre", "EndreStasjon", new { id = item.id }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Slett", "SletteStasjon", new { id = item.id }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+
+
+
+    }
+
+
+    
+
+</table>
+<div class="form-group mt-3">
+    <div class="col-md-offset-2 col-md-10">
+
+        <a href="~/Admin/RegistrerStasjon" class="btn btn-primary  btn-lg">Lag ny stasjon</a>
+
+    </div>
+</div>

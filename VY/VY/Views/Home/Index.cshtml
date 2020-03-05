@@ -1,0 +1,723 @@
+﻿
+@{
+    ViewBag.Title = "VY";
+}
+
+    <!DOCTYPE html>
+<html>
+<head>
+    
+
+    <script type="text/javascript">
+
+        //Kontroll-Variabel
+        var turReturAktiv = false;
+        var valgteAvganger;
+        var fraR = -1;
+        var tilR = -1;
+
+        $(function() {
+
+            $("#StartDato").datepicker({
+                startDate: new Date(),
+                todayBtn:  1,
+                format: 'dd.mm.yyyy',
+                autoclose: true,
+                orientation: 'bottom'
+            }).on('changeDate', function (selected) {
+                var minDate = new Date(selected.date.valueOf());
+                $('#ReturDato').datepicker('setStartDate', minDate);
+            });
+
+            $("#ReturDato").datepicker({
+                startDate: new Date(),
+                format: 'dd.mm.yyyy',
+                autoclose: true,
+                changeMonth: true,
+                changeYear: true,
+                autoclose: true,
+                orientation: 'bottom'
+
+            }).on('changeDate', function (selected) {
+                var maxDate = new Date(selected.date.valueOf());
+                $('#StartDato').datepicker('setEndDate', maxDate);
+                   
+            });
+
+            //Timpepicker
+            $("#StartTid").timepicker({
+                timeFormat: 'H:i',
+                dynamic: true,
+                dropdown: true,
+                scrollbar: true,
+                defaultTime: 'now',
+                autoclose: true
+            });
+
+            $("#ReturTid").timepicker({
+                timeFormat: 'H:i',
+                dynamic: true,
+                dropdown: true,
+                scrollbar: true,
+                defaultTime: 'now',
+                autoclose: true
+            });
+
+            // Henter alle stasjoner
+            $('.hentStasjon').select2();
+            $.ajax({
+                type: "GET",
+                url: "/Home/hentAlleStasjoner",
+                dataType: 'json',
+                success: function(Stasjon) {
+                    VisDropDown(Stasjon);
+                },
+                error: function(x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+
+            // Tur/retur
+            $(".TurRetur").hide();
+
+            $("#SjekkTurRetur").click(function() {
+                $(".TurRetur").show();
+                turReturAktiv = true;
+            });
+
+            $("#SjekkTur").click(function() {
+                $(".TurRetur").hide();
+                turReturAktiv = false;
+            });
+
+            $("#VisAvgangerOrdre").hide();
+            $("#Betal").hide();
+
+
+        });
+
+        function seAvgang() {
+            $("#VisAvgangerOrdre").hide();
+            var dato = $("#StartDato").val();
+            var startTid = $("#StartTid").val();
+            var fraStasjon = $("#FraStasjon").val();
+            var tilStasjon = $("#TilStasjon").val();
+            var linje = "";
+            var pris = $("#antBarn").val() * 100 + $("#antVoksen").val() * 300;
+            var voksen = $("#antVoksen").val();
+            var barn = $("#antBarn").val();
+            var turRetur = turReturAktiv;
+            var returDato = "";
+            var returTid = "";
+
+            if (turReturAktiv) {
+                returDato = $("#ReturDato").val();
+                returTid = $("#ReturTid").val();
+            } 
+
+            $.ajax({
+                url: '/Home/hentRute',
+                type: 'GET',
+                data: {
+                    Dato: dato,
+                    Tid: startTid,
+                    FraStasjon: fraStasjon,
+                    TilStasjon: tilStasjon,
+                    Linje: linje,
+                    AntVoksen: voksen,
+                    AntBarn: barn,
+                    TurRetur: turRetur,
+                    ReturDato: returDato,
+                    ReturTid: returTid
+                },
+                dataType: "json",
+                success: function(ruteListe) {
+                    valgteAvganger = ruteListe
+                    VisAvganger();
+
+                    $("html, body").animate({ scrollTop: document.body.scrollHeight }, "slow");
+
+                },
+                error: function(x, y, z) {
+                    alert(x + y + z);
+                }
+            });
+        }
+
+         function VisAvganger() {
+
+            var tabellTekst =
+
+                "<div class='card ' id='utReise' style='margin-top:150px'>" +
+                "<h5 class='card-header'>Avganger for "+ valgteAvganger[0].Dato +"</h5>" +
+                "<div class='card-body' id='utReiseTabell'>" +
+                "<table class='table table-hover'>" +
+                "<thead>" + "<tr>" +
+                "<th scope='col-2'>Tid</th>" +
+                "<th scope='col-2'>Fra</th>" +
+                "<th scope='col-2'>Til</th>" +
+                "<th scope='col-2'>Linjer</th>" +
+                "<th scope='col-2'>Pris</th>" +
+                "<th scope='col-2'></th>" +
+                "</tr>" + "</thead>" +
+                "<tbody>";
+
+            for (var i in valgteAvganger) {
+                tabellTekst +=
+                    "<tr>" +
+                    "<td>" + valgteAvganger[i].Tid + "</td>" +
+                    "<td>" + valgteAvganger[i].FraStasjon + "</td>" +
+                    "<td>" + valgteAvganger[i].TilStasjon + "</td>" +
+                    "<td>" + valgteAvganger[i].Linje + "</td>" +
+                    "<td>" + valgteAvganger[i].Pris + "</td>" +
+                    "<td>" + "<input type='button' class='btn btn-success' value='Velg reise' onclick='hentAvgang("+valgteAvganger[i].Id+")'/>" + "</td>" +
+                    "</tr>";
+            }
+
+            tabellTekst += "</tbody></table></div></div>";
+
+            document.getElementById("VisAvganger").innerHTML = tabellTekst;
+        }
+
+
+        function VisReturAvganger() {
+
+            var tabellTekst =
+
+                "<div class='card' id='utReise' style='margin-top:150px'>" +
+                "<h5 class='card-header'>Avganger for "+ valgteAvganger[0].ReturDato +"</h5>" +
+                "<div class='card-body' id='utReiseTabell'>" +
+                "<table class='table table-hover'>" +
+                "<thead>" + "<tr>" +
+                "<th scope='col-2'>Tid</th>" +
+                "<th scope='col-2'>Fra</th>" +
+                "<th scope='col-2'>Til</th>" +
+                "<th scope='col-2'>Linjer</th>" +
+                "<th scope='col-2'>Pris</th>" +
+                "<th scope='col-2'></th>" +
+                "</tr>" + "</thead>" +
+                "<tbody>";
+
+            for (var i in valgteAvganger) {
+                tabellTekst +=
+                    "<tr>" +
+                    "<td>" + valgteAvganger[i].ReturTid + "</td>" +
+                    "<td>" + valgteAvganger[i].TilStasjon + "</td>" +
+                    "<td>" + valgteAvganger[i].FraStasjon + "</td>" +
+                    "<td>" + valgteAvganger[i].LinjeRetur + "</td>" +
+                    "<td>" + valgteAvganger[i].Pris + "</td>" +
+                    "<td>" + "<input type='button' class='btn btn-success' value='Velg retur' onclick='hentReturAvgang("+valgteAvganger[i].Id+")'/>" + "</td>" +
+                    "</tr>";
+            }
+
+            tabellTekst += "</tbody></table></div></div>";
+
+            document.getElementById("VisAvganger").innerHTML = tabellTekst;
+        }
+
+        function hentAvgang(utId) {
+            fraR = utId;
+
+            if (turReturAktiv) {
+                VisReturAvganger();
+            } else {
+                sendAvgang();
+            }
+        }
+
+        function hentReturAvgang(utId) {
+            tilR = utId;
+            sendAvgang();
+        }
+
+        function sendAvgang() {
+            //Hent ordre partialview
+            var startDato = $("#StartDato").val();
+            var startTid = $("#StartTid").val();
+            var fraStasjon = $("#FraStasjon").val();
+            var tilStasjon = $("#TilStasjon").val();
+            var antVoksne = $("#antVoksen").val();
+            var antBarn = $("#antBarn").val();
+            var turRetur = turReturAktiv;
+            var returDato = "";
+            var returTid = "";
+
+            if (turReturAktiv) {
+                returDato = $("#ReturDato").val();
+                returTid = $("#ReturTid").val();
+            } 
+
+            $.ajax({
+                url: '/Home/HentOrdre',
+                type: 'GET',
+                data: {
+                    Dato: startDato,
+                    Tid: startTid,
+                    FraStasjon: fraStasjon,
+                    TilStasjon: tilStasjon,
+                    AntVoksne: antVoksne,
+                    AntBarn: antBarn,
+                    TurRetur: turRetur,
+                    ReturDato: returDato,
+                    ReturTid: returTid
+                },
+                dataType: "html",
+                success: function(ordre) {
+                    $("#VisAvganger").html(ordre);
+                    $("#Betal").show();
+
+                },
+                error: function(x, y, z) {
+                    alert(x + y + z);
+                }
+            });
+
+        }
+
+        function registrerOrdre() {
+            var startDato = $("#StartDato").val();
+            var startTid = $("#StartTid").val();
+            var fraStasjon = $("#FraStasjon").val();
+            var tilStasjon = $("#TilStasjon").val();
+            var antVoksne = $("#antVoksen").val();
+            var antBarn = $("#antBarn").val();
+            var turRetur = turReturAktiv;
+            var returDato = "";
+            var returTid = "";
+            var epost = $("#Epost").val();
+            var tlf = $("#Telefonnummer").val();
+            var betaling = document.querySelector('input[name="Betalingsmaate"]:checked').value;
+
+            if (turReturAktiv) {
+                returDato = $("#ReturDato").val();
+                returTid = $("#ReturTid").val();
+            } 
+
+            var bestilling = {
+                Dato: startDato,
+                Tid: startTid,
+                FraIndeks: fraStasjon,
+                TilIndeks: tilStasjon,
+                AntVoksne: antVoksne,
+                AntBarn: antBarn,
+                TurRetur: turRetur,
+                ReturDato: returDato,
+                ReturTid: returTid,
+                Epost: epost,
+                Telefon: tlf,
+                BetalingsMetode: betaling
+            }
+
+            $.ajax({
+                url: "/Home/RegistrerOrdre",
+                type: "POST",
+                data: JSON.stringify(bestilling),
+                contentType: "application/json;charset=utf-8",
+                success: function (ok) {
+                    window.location.href = "/Home/Goodbye";
+                },
+                error: function(x, y, z) {
+                    $("#ut").append("Det funka ikke");
+                    alert(x + '\n' + y + '\n' + z);
+
+                }
+            });
+
+        }
+
+        //Metode for å fylle dropdown boks
+        function VisDropDown(Stasjon) {
+            var utStreng = "";
+            for (var i in Stasjon) {
+                utStreng += "<option value='" + Stasjon[i].id + "'>" + Stasjon[i].Navn + "</option>";
+                console.log('fant data');
+            }
+            $(".hentStasjon").append(utStreng);
+        }
+
+
+        function Valider_Dato() {
+
+            regEx = /^([0-2][0-9]|(3)[0-1])(\.)(((0)[0-9])|((1)[0-2]))(\.)\d{4}$/;
+
+            OK = regEx.test(document.VY.StartDato.value);
+
+            if (!OK) {
+                document.getElementById("feilDato").innerHTML = "Vennligst oppgi datoen i<br/> formatet DD.MM.YYYY";
+                document.getElementById("StartDato").style.borderColor = "red";
+
+                return false;
+            }
+            document.getElementById("feilDato").innerHTML = "";
+            document.getElementById("StartDato").style.borderColor = "lightgrey";
+            return true;
+
+        }
+
+        function Valider_ReturDato() {
+
+            regEx = /^([0-2][0-9]|(3)[0-1])(\.)(((0)[0-9])|((1)[0-2]))(\.)\d{4}$/;
+
+            OK = regEx.test(document.VY.ReturDato.value);
+
+            if (!OK) {
+                document.getElementById("feilReturDato").innerHTML = "Vennligst oppgi datoen i<br/> formatet DD.MM.YYYY";
+                document.getElementById("ReturDato").style.borderColor = "red";
+
+                return false;
+            }
+            document.getElementById("feilReturDato").innerHTML = "";
+            document.getElementById("ReturDato").style.borderColor = "lightgrey";
+            return true;
+        }
+
+        function Valider_StartTid() {
+
+            regEx = /^([01]\d|2[0-3]):?([0-5]\d)$/;
+
+            OK = regEx.test(document.VY.StartTid.value);
+
+            if (!OK) {
+                document.getElementById("feilStartTid").innerHTML = "Vennligst oppgi riktig tid i<br/> formatet HH:MM";
+                document.getElementById("StartTid").style.borderColor = "red";
+
+                return false;
+            }
+            document.getElementById("feilStartTid").innerHTML = "";
+            document.getElementById("StartTid").style.borderColor = "lightgrey";
+            return true;
+        }
+
+        function Valider_ReturTid() {
+
+            regEx = /^([01]\d|2[0-3]):?([0-5]\d)$/;
+
+            OK = regEx.test(document.VY.ReturTid.value);
+
+            if (!OK) {
+                document.getElementById("feilReturTid").innerHTML = "Vennligst oppgi riktig tid i<br/> formatet HH:MM";
+                document.getElementById("ReturTid").style.borderColor = "red";
+                return false;
+            }
+            document.getElementById("feilReturTid").innerHTML = "";
+            document.getElementById("ReturTid").style.borderColor = "lightgrey";
+            return true;
+        }
+
+
+        function Valider_Billetter() {
+            var ant1 = parseInt($("#antVoksen").val());
+            var ant2 = parseInt($("#antBarn").val());
+
+            if ((ant1 + ant2) <= 0) {
+                document.getElementById("feilBillett").innerHTML = "Vennligst velg en billett";
+                return false;
+            }
+            document.getElementById("feilBillett").innerHTML = "";
+            return true;
+        }
+
+        function Valider_Stasjoner() {
+            var fraS = $("#FraStasjon").val();
+            var tilS = $("#TilStasjon").val();
+
+            if (fraS == tilS) {
+                document.getElementById("feilFraStasjonen").innerHTML = "Vennligst velg ulike stasjoner for søk etter avganger";
+                return false;
+            }
+            document.getElementById("feilFraStasjonen").innerHTML = "";
+            return true;
+        }
+
+
+
+        //VALIDERERING 
+        function valider_alle() {
+            StartDatoOK = Valider_Dato();
+            StartTidOK = Valider_StartTid();
+            StasjonerValgOK = Valider_Stasjoner();
+            BilletterOK = Valider_Billetter();
+            $("#Betal").hide();
+
+            if (turReturAktiv) {
+                ReturDatoOK = Valider_ReturDato();
+                ReturTid = Valider_ReturTid();
+                
+
+                if (StartDatoOK && StartTidOK && ReturTid && ReturDatoOK && StasjonerValgOK && BilletterOK) {
+                    document.getElementById("ut").innerHTML = "";
+                    
+                    $("#VisAvganger").show();
+                    seAvgang();
+                    return true;
+
+                } else {
+                    document.getElementById("ut").innerHTML = "Vennligst fyll over feltene med gitt informasjon";
+                    $("#VisAvganger").hide();
+                    $("html, body").animate({ scrollTop: document.body.scrollHeight }, "slow");
+                    return false;
+                }
+            } else {
+                if (StartDatoOK && StartTidOK && StasjonerValgOK && BilletterOK) {
+                    document.getElementById("ut").innerHTML = "";
+                   
+                    $("#VisAvganger").show();
+                    seAvgang();
+                    return true;
+                } else {
+
+                    document.getElementById("ut").innerHTML = "Vennligst fyll over feltene med gitt informasjon";
+                    $("#VisAvganger").hide();
+                    $("html, body").animate({ scrollTop: document.body.scrollHeight }, "slow");
+                    return false;
+                }
+            }
+
+        }
+
+
+        //ORDRE VALIDERING
+        function Valider_Epost() {
+            
+            regEx = /^[^@@\s]+@@[^@@\.\s]+(\.[^@@\.\s]+)+$/;
+
+            OK = regEx.test(document.VY.Epost.value);
+
+            if (!OK) {
+                document.getElementById("feilEpost").innerHTML = "Vennligst Tast inn riktig epost";
+                document.getElementById("Epost").style.borderColor = "red";
+
+                return false;
+            }
+            document.getElementById("feilEpost").innerHTML = " ";
+            document.getElementById("Epost").style.borderColor = "lightgrey";
+            return true;
+        }
+
+        function Valider_Telefonnummer() {
+            
+            regEx = /^[0-9]{8}$/;
+
+            OK = regEx.test(document.VY.Telefonnummer.value);
+
+            if (!OK) {
+                document.getElementById("feilTelefonnummer").innerHTML = "Vennligst Tast inn riktig Telefonnummer";
+                document.getElementById("Telefonnummer").style.borderColor = "red";
+
+                return false;
+            }
+            document.getElementById("feilTelefonnummer").innerHTML = " ";
+            document.getElementById("Telefonnummer").style.borderColor = "lightgrey";
+            return true;
+        }
+
+         
+        function VisKontaktinfo() {
+
+
+            $("#VisAvgangerOrdre").show();
+            $("html, body").animate({ scrollTop: document.body.scrollHeight }, "slow");
+        }
+
+
+        function valider_alt() {
+
+            EpostOK = Valider_Epost();
+            TelefonnummerOK = Valider_Telefonnummer();
+            if (EpostOK&& TelefonnummerOK) {
+                document.getElementById("FeilMelding").innerHTML = "";
+                registrerOrdre();
+                return true;
+            } else {
+
+                document.getElementById("FeilMelding").innerHTML = "Vennligst fyll over feltene med gitt informasjon";
+            
+                return false;
+            }
+        }
+    </script>
+</head>
+
+<body>
+
+    <form name="VY" class="mt-4" id="skjema">
+
+        <div class="form-group mb-5">
+
+            <div class="row">
+
+                <div class="col-lg-3" id="stylefra">
+                    <h4>Fra stasjon</h4>
+                    <select class=" form-control form-control-lg hentStasjon" id="FraStasjon" name="FraStasjon" onchange="Valider_Stasjoner()"></select>
+                </div>
+
+                <div class="col-lg-3">
+                    <h4>Til stasjon</h4>
+                    <select class="form-control form-control-lg hentStasjon" id="TilStasjon" onchange="Valider_Stasjoner()"></select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8">
+                    <div id="feilFraStasjonen">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="mb-4">
+
+            <div class="form-check form-check-inline form-group">
+                <input type="radio" class="form-check-input" id="SjekkTur" name="TurogRetur" checked>
+                <label class="form-check-label font-weight-bold " for="materialInline1">Tur</label>
+            </div>
+
+
+            <div class="form-check form-check-inline form-group">
+                <input type="radio" class="form-check-input" id="SjekkTurRetur" name="TurogRetur">
+                <label class="form-check-label font-weight-bold " for="materialInline2">Tur/Retur</label>
+            </div>
+        </div>
+
+
+
+        <div class="form-group mb-5">
+
+            <div class="row">
+                <div class="col-lg-3">
+                    <h4>Utreise</h4>
+                    <input id="StartDato" type="text" class="form-control" placeholder="velg dato" name="StartDato" onchange="Valider_Dato()" autocomplete="off" />
+                    <div id="feilDato"> </div>
+                </div>
+
+                <div class="col-lg-3">
+                    <h4>Tid</h4>
+                    <input type="text" class="form-control" id="StartTid" placeholder="tid" name="StartTid" onchange="Valider_StartTid()" />
+                    <div id="feilStartTid"> </div>
+                    <span class="input-group-addon"><i class="fa fa-clock-o"></i></span>
+                </div>
+
+                <div class="col-lg-3 TurRetur">
+                    <h4>Retur</h4>
+                    <input id="ReturDato" type="text" class="form-control" placeholder="velg dato" name="ReturDato" onchange="Valider_ReturDato()" autocomplete="off" />
+                    <div id="feilReturDato"> </div>
+                </div>
+
+                <div class="col-lg-3 TurRetur">
+                    <h4>Tid</h4>
+                    <input type="text" class="form-control" id="ReturTid" placeholder="tid" name="ReturTid" onchange="Valider_ReturTid()" />
+                    <span class="input-group-addon"><i class="fa fa-clock-o"></i></span>
+                    <div id="feilReturTid"> </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <h4 class="mb-3">Velg Type billett</h4>
+        <h5 class="font-weight-normal"> Voksen</h5>
+        <div class="form-check form-check-inline form-group container mb-lg-n1">
+            <div class="col-xs-2">
+
+                <input class="form-control" id="antVoksen" type="number" min="0" max="5" value="1" onchange="Valider_Billetter( )"><br />
+            </div>
+        </div>
+
+        <h5 class="font-weight-normal"> Barn</h5>
+
+        <div class="form-check form-check-inline form-group container">
+            <div class="col-xs-2">
+
+                <input class="form-control" id="antBarn" type="number" min="0" max="5" value="0" onchange="Valider_Billetter()" /><br />
+            </div>
+            <div id="feilBillett" class="container">
+
+            </div>
+
+        </div>
+        <div class="col-10" id="ut">
+
+        </div>
+
+
+
+        <div class="form group mb-5" id="Bekreftknapp">
+
+            <div class="col">
+
+                <button type="button" class="btn btn-success btn-lg float-right mt-n4" onclick="valider_alle()">Se Avgang</button>
+            </div>
+
+        </div>
+       
+        <div class="form-group ">
+            <div class="form-group" id="VisAvganger">
+            </div>
+
+
+            <div class="form group " id="Betaling">
+                <div class="col">
+
+                    <button type="button" id="Betal" class="btn btn-success btn-lg float-right" onclick="VisKontaktinfo()">Klikk her for å betale</button>
+                </div>
+            </div>
+
+            <div class="form-group" id="VisAvgangerOrdre">
+                <div class="form-group mb-5" style="margin-top:200px">
+
+                    <div class="row">
+                        <div class="col-lg-3">
+                            <h4>Epost</h4>
+                            <input id="Epost" type="text" class="form-control" name="Epost" onchange="Valider_Epost() " placeholder="Skriv inn Epost" />
+                            <div id="feilEpost"> </div>
+                        </div>
+
+                        <div class="col-lg-3">
+                            <h4>Telefonnummer</h4>
+                            <input type="text" class="form-control" id="Telefonnummer" name="Telefonnummer" onchange="Valider_Telefonnummer()" placeholder="Fyll inn telefonnummer" />
+                            <div id="feilTelefonnummer"> </div>
+                        </div>
+                    </div>
+                </div>
+
+                <fieldset class="form-group">
+                    <h4 class="mb-4">Betalingsmåte</h4>
+                    <div class="form-check">
+                        <label class="form-check-label mb-3">
+                            <input type="radio" class="form-check-input" id="Visa" name="Betalingsmaate" checked value="Visa">
+                            <img src="~/Content/images/VisaLogo.png" style="width: 70px">
+                        </label>
+                    </div>
+                    <div class="form-check mt-2 mb-3">
+                        <label class="form-check-label ">
+                            <input type="radio" class="form-check-input" id="Vipps" name="Betalingsmaate" value="Vipps">
+                            <img src="~/Content/images/VippsLogo.png" style="width: 110px" class="mt-n2 ml-n3">
+                        </label>
+                    </div>
+                    <div class="form-check mb-3">
+                        <label class="form-check-label">
+                            <input type="radio" class="form-check-input" id="Paypal" name="Betalingsmaate" value="Paypal">
+                            <img src="~/Content/images/PaypalLogo.png" style="width: 100px" class="mb-2 ml-n1">
+                        </label>
+                    </div>
+                </fieldset>
+
+                <div class="form group mb-5" id="Bekreftknapp">
+
+                    <div class="col">
+                        <button type="button" id="BekreftOrdre" class="btn btn-success btn-lg px-5 float-right" onclick="valider_alt()">Kjøp</button>
+                    </div>
+                    <div class="col" id="FeilMelding">
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,85 @@
+﻿@{
+   
+    Layout = "~/Views/Shared/_NavBar.cshtml";
+    ViewBag.Title = "Index";
+    
+}
+
+<head>
+</head>
+
+
+<html>
+<body>
+
+
+<div class="form-group row ml-5 mt-4">
+    <div class=" col ml-5">
+
+        <h2> Du er nå logget inn ! </h2>
+
+    </div>
+</div>
+
+<div class="form-group row ml-5">
+    <div class="col ml-5">
+        <div class="card mb-3" style="max-width: 20rem; height:95%">
+            <h3 class="card-header"> Vedlikehold</h3>
+            <div class="card-body">
+
+            </div>
+            <img style="height: 200px; width: 95%; display: block;" src="~/Content/images/TogVedlikehold.png" alt="Card image">
+            <div class="card-body" style=" width: 100%;">
+                <p class="card-text">Klikk her for å vedlikholde stasjoner,linjer,priser etc.</p>
+            </div>
+
+            <div class="card-body text-center mt-n3">
+                <a href="~/Admin/VedlikeholdView" class="btn btn-primary ">Gå videre</a>
+            </div>
+
+        </div>
+    </div>
+    <div class="col ml-5">
+        <div class="card mb-3" style="max-width: 20rem;">
+            <h3 class="card-header"> Admin</h3>
+            <div class="card-body">
+
+            </div>
+            <img style="height: 200px; width: 100%; display: block;" src="~/Content/images/admin.png" alt="Card image">
+            <div class="card-body">
+                <p class="card-text">Klikk her for å gå til admin siden.</p>
+            </div>
+
+            <div class="card-body text-center">
+                <a href="~/Admin/AdminView" class="btn btn-primary ">Gå videre</a>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="col ml-5">
+        <div class="card mb-3" style="max-width: 20rem;">
+            <h3 class="card-header"> Kunder</h3>
+            <div class="card-body">
+
+            </div>
+            <img style="height: 200px; width: 95%; display: block;" src="~/Content/images/Kunde.png" alt="Card image">
+            <div class="card-body">
+                <p class="card-text">Klikk her for å administrere Kunder.</p>
+            </div>
+
+            <div class="card-body text-center">
+                <a href="~/Admin/ListKunder" class="btn btn-primary ">Gå videre</a>
+            </div>
+
+        </div>
+    </div>
+
+
+</div>
+
+
+</body>
+
+
+</html>

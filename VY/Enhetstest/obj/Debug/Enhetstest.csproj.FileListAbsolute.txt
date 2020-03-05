@@ -1,0 +1,129 @@
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Enhetstest.dll.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Enhetstest.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Enhetstest.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\BLL.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\DAL.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Model.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\MvcContrib.TestHelper.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Rhino.Mocks.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.Helpers.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.Mvc.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.Razor.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.WebPages.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\VY.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\BLL.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\DAL.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\DAL.dll.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Model.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Model.dll.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\VY.pdb
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\VY.dll.config
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.Helpers.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.Mvc.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.Razor.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.WebPages.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\obj\Debug\Enhetstest.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\obj\Debug\Enhetstest.csproj.CopyComplete
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\obj\Debug\Enhetstest.dll
+C:\Users\furka\Desktop\18.10 - SISTE\18.10 - SISTE\18.10\VY\Zuheb\VY_OPPG1_G45\VY_OPPG1_G45\VY\Enhetstest\obj\Debug\Enhetstest.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Enhetstest.dll.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Enhetstest.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Enhetstest.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\BLL.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\DAL.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Model.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\MvcContrib.TestHelper.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Rhino.Mocks.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.Helpers.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.Mvc.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.Razor.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.WebPages.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\VY.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\BLL.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\DAL.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\DAL.dll.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Model.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Model.dll.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\VY.pdb
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\VY.dll.config
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.Helpers.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.Mvc.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.Razor.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.WebPages.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\obj\Debug\Enhetstest.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\obj\Debug\Enhetstest.csproj.CopyComplete
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\obj\Debug\Enhetstest.dll
+C:\Users\furka\Desktop\GUI og ADMIN ferdig\VY\Enhetstest\obj\Debug\Enhetstest.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Enhetstest.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Enhetstest.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Enhetstest.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\BLL.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\DAL.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\log4net.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Model.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\MvcContrib.TestHelper.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Rhino.Mocks.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.Helpers.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.Mvc.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.WebPages.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\VY.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\EntityFramework.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\BLL.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\DAL.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\DAL.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Model.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Model.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\VY.pdb
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\VY.dll.config
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\log4net.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.Helpers.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.Mvc.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.WebPages.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\bin\Debug\EntityFramework.xml
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\obj\Debug\Enhetstest.csprojAssemblyReference.cache
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\obj\Debug\Enhetstest.csproj.CoreCompileInputs.cache
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\obj\Debug\Enhetstest.csproj.CopyComplete
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\obj\Debug\Enhetstest.dll
+C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\Enhetstest\obj\Debug\Enhetstest.pdb

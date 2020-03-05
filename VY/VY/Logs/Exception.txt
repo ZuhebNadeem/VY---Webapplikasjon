@@ -1,0 +1,12 @@
+﻿26.10.2019 16:26:17:  System.ArgumentNullException: Verdien kan ikke være null.
+Parameternavn: entity
+   ved System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   ved System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   ved DAL.LogikkDAL.SlettAdmin(Int32 id) i C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\LogikkDAL.cs:linje 263
+
+26.10.2019 16:26:32:  System.ArgumentNullException: Verdien kan ikke være null.
+Parameternavn: entity
+   ved System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   ved System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   ved DAL.LogikkDAL.SlettAdmin(Int32 id) i C:\Users\sajan_xu01lsq\Desktop\Ny Prosjekt\GUI Kunde fiks - Enhetstest fullfør - og logg fiks\VY\DAL\LogikkDAL.cs:linje 263
+

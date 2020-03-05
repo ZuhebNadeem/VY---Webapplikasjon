@@ -1,0 +1,47 @@
+﻿@model List<DAL.Stasjoner>
+
+<html>
+<head>
+   
+</head>
+
+<body>
+<div class="card ">
+   
+    <h5 class="card-header">Stasjoner</h5>
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead>
+            <tr>
+                <th scope="col-2">Navn</th>
+                <th scope="col-2">Antall Linjer</th>
+                <th scope="col-2">Linjer</th>
+            </tr>
+
+            </thead>
+            <tbody>
+                
+                    @foreach (var s in Model)
+                    {
+                    <tr>
+                        <td>@s.Navn</td>
+                        <td>@s.Linjer.Count</td>
+                        <td>
+                            @foreach (var l in s.Linjer)
+                            {
+                                @l.Navn
+                            }
+
+                        </td>
+
+                    </tr>
+
+                }
+                </tbody>
+        </table>
+
+    </div>
+</div>
+
+</body>
+</html>

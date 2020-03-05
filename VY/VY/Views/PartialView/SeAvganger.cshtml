@@ -1,0 +1,106 @@
+﻿@model VY.Models.Ordre
+
+
+<html>
+<head>
+    
+    
+    <script type="text/javascript">
+
+        $(function () {
+            $("#returReise").hide();
+
+            if (@Model.TurRetur.ToString().ToLower() == true) {
+                $("#returReise").show();
+            }
+
+            $("html, body").animate({ scrollTop: document.body.scrollHeight }, "slow");
+
+        });
+
+
+    </script>
+</head>
+
+<body>
+
+<div class="card " id="utReise" style="margin-top:200px">
+    <h5 class="card-header">
+        UTREISE FOR @Model.Dato
+    </h5>
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead>
+            <tr>
+                <th scope="col-2">Tid</th>
+                <th scope="col-2">Fra</th>
+                <th scope="col-2">Til</th>
+                <th scope="col-2">Pris</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>@Model.Tid</td>
+                <td>@Model.FraStasjon</td>
+                <td>@Model.TilStasjon</td>
+                <td>@Model.Pris</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="card" id="returReise">
+    <h5 class="card-header">
+        RETUR FOR @Model.ReturDato
+    </h5>
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead>
+            <tr>
+                <th scope="col-2">Tid</th>
+                <th scope="col-2">Fra</th>
+                <th scope="col-2">Til</th>
+                <th scope="col-2">Pris</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>@Model.ReturTid</td>
+                <td>@Model.TilStasjon</td>
+                <td>@Model.FraStasjon</td>
+                <td>@Model.Pris</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="card" id="totalReise" style="margin-top:50px">
+    <h5 class="card-header">
+        TOTAL
+    </h5>
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col-2">Reisende</th>
+                    <th scope="col-2">Pris</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Reisende</td>
+                    <td>@Model.Sum</td>
+
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+</body>
+</html>
+
+

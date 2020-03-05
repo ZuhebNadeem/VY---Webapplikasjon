@@ -1,0 +1,81 @@
+﻿@model Model.Admin
+
+@{
+    ViewBag.Title = "Endre Admin";
+    Layout = "~/Views/Shared/_NavBar.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript">
+        function Tom() {
+            $("#tekst").empty();
+        }
+
+
+    </script>
+</head>
+
+
+
+<h2 class="mt-4 mb-4">Endre Admin</h2>
+<div class="col-md-7">
+    <p class="text-danger">- Dersom du skal endre bare brukernavn på admin la passord feltet så tomt! </p>
+</div>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <div id="tekst">
+            @if (Session["EndreAdmin"] == null)
+            {
+                <p></p>
+            }
+            else
+            {
+                if (Session["EndreAdmin"] is false)
+                {
+
+                    <p class="text-danger">Brukernavnet finnes allerede</p>
+                }
+                else
+                {
+                    <p></p>
+
+                }
+            }
+
+        </div>
+
+
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Brukernavn, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.Brukernavn, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Brukernavn, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Passord, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.Passord, new { htmlAttributes = new { @class = "form-control", type = "password", placeholder = "Ingen endringer skjer ved tom felt!" } })
+            </div>
+        </div>
+
+        <div class="form-group mt-5">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Oppdater" class="btn btn-success btn-lg" onclick="Tom()" />
+            </div>
+        </div>
+    </div>
+}
+
